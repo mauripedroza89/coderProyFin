@@ -1,0 +1,26 @@
+
+.upnav {
+    background-color: gray;
+    color: red;
+    text-decoration: wavy;
+   padding: 1%;
+    text-align: center;
+} 
+
+.upnav h1{
+    font-size: 20px;
+}
+
+nav img {
+    width: 8%;
+}
+
+.imgslide {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.image {
+    width: 30%;
+}
+
